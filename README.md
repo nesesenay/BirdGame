@@ -1,4 +1,5 @@
 # BirdGame
 
-![Ekran Resmi 2022-04-06 07 37 26](https://user-images.githubusercontent.com/91677453/161897017-ebed950e-5867-4af3-8885-e7c310dc6594.png)
-![Ekran Resmi 2022-04-06 07 38 52](https://user-images.githubusercontent.com/91677453/161897025-51379107-80ec-4c17-aab0-0d35265fab79.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2022-04-06 at 07 42 54](https://user-images.githubusercontent.com/91677453/161897404-2db0ee4c-39f2-4833-8ca5-271678671f85.png)
+![Simulator Screen Shot - iPhone 11 Pro Max - 2022-04-06 at 07 43 49](https://user-images.githubusercontent.com/91677453/161897418-4815e76f-cf74-4c66-a903-c9c922e5d229.png)
+
